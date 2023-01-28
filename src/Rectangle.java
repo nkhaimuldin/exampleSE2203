@@ -28,4 +28,8 @@ class Rectangle {
     public int getArea() {
         return width * height;
     }
+
+    public void example(){
+        System.out.println("example");
+    }
 }
